@@ -1,1 +1,1 @@
-# s2i-openshift-1
+# s2i-openshift-v1-0
